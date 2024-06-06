@@ -2,9 +2,8 @@
 
 
 # Usage:
-- git clone `https://github.com/DrMasaDr/WEBSITE-METHOD`
-- cd WEBSITE-METHOD
-- bash setup.sh
+- git clone `https://github.com/DrMasaDr/User-Find`
+- cd User-Find
 - bash DXD.sh
 
 
